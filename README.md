@@ -1,7 +1,7 @@
 # Assignment 10
 ## Full Stack Javascript Web Development Course by [iNeuron](https://ineuron.ai/)
 
-This website is created with HTML and CSS only. It is not fully mobile responsive. I will update this project very soon to make it mobile responsive. It took me almost 4 to 5 hours to complete this project. This project helped me to learn drawing line and circular shape and positioning them in proper place using html css. All the images and logos were provided by iNeuron team.
+This webpage is created with HTML and CSS only. It took me almost 4 to 5 hours to complete this project. This project helped me to learn drawing line and circular shape and positioning them in proper place using html css. All the images and logos were provided by iNeuron team.
 
 [Click Here](https://fsjs-assignment10.netlify.app/) to view the website.
 
